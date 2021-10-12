@@ -1,0 +1,3 @@
+recursive-include documentation/source/*
+recursive-include documentation/make.bat
+recursive-include documentation/Makefile
